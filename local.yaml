@@ -1,0 +1,5 @@
+URL_MONGODB: "localhost:27017"
+DATABASE_MONGODB: "northwind"
+OPTS_MONGODB: "authSource=admin"
+USERNAME_MONGODB: ""
+PASSWORD_MONGODB: ""
